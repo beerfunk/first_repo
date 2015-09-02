@@ -1,0 +1,25 @@
+<!doctype html>
+<head>
+<link rel="stylesheet" href="http://lighthouse.jquerycentral.com/css/blog-blue.css">
+<title></title>
+</head>
+<body>
+<header>
+<h1>My Blog</h1>
+</header>
+
+<section>
+<header>
+<h2>I built a webpage</h2>
+<h3>September 1st, 2015</h3>
+<h4>David Xin</h4>
+</header>
+<article>
+<p>I really look forward to learning more about HTML and CSS!</p>
+</article>
+</section>
+<aside>
+<section><h4>Widget</h4></section>
+<section><h4>Widget</h4></section>
+</aside>
+</body>
