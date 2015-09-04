@@ -20,7 +20,21 @@
 </article>
 </section>
 <aside>
-<section><h4>Widget</h4></section>
-<section><h4>Widget</h4></section>
+<section>
+<h4>My Pet</h4>
+<p>Sunball</p>
+</section>
+<section>
+<h4>My Favourite Colour</h4>
+<p class="red">blue</p>
+</section>
+<section>
+<h4>Bucket List</h4>
+<ul>
+<li>living in Europe</li>
+<li>learn coding</li>
+<li>start my own company</li>
+</ul>
+</section>
 </aside>
 </body>

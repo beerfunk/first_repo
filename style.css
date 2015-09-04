@@ -17,3 +17,11 @@ h4 {
 header h1 {
   font-size: 50px;
 }
+
+p.red {
+  color: #D4A190;
+}
+
+ul {
+  list-style-type: circle;
+}
