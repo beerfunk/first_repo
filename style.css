@@ -1,0 +1,19 @@
+header {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 15px;
+  padding-bottom: 30px;
+}
+
+p {
+  color: red;
+  background-color: blue;
+}
+
+h4 {
+  text-align: center;
+}
+
+header h1 {
+  font-size: 50px;
+}
